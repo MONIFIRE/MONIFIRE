@@ -1,4 +1,4 @@
-### Will update the website soon. 👋
+### Will update the website soon.
 
 <!--
 **MONIFIRE/MONIFIRE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
